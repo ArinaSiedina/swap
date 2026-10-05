@@ -1,0 +1,4 @@
+.build/
+push_swap
+__pycache__/
+*.pyc
